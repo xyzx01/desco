@@ -7,7 +7,7 @@ import Services from './Services';
 
 function App() {
   return (
-    <AuthProvider projectId="P2TqQZ45i64ax79Cx9Voy3HEadzL">
+    <AuthProvider projectId="P2TpmDjYpJ1B6y16p8Gj39c3Y8RM">
       <Router>
         <Routes>
           <Route path="/" element={<Dashboard />} />
